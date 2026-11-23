@@ -29,15 +29,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-            - name: Send Telegram test notification
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          curl -fsS -X POST \
-            "https://api.telegram.org/bot${9126926306:AAE6G0PwHMX02nsDoHdCOsZ2CzaWILofRZs}/sendMessage" \
-            -d "chat_id=${@PeaceMovieAlertBot}" \
-            --data-urlencode "text=✅ Movie-Alert test successful! Telegram notifications are working."
       - name: Run poller
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
