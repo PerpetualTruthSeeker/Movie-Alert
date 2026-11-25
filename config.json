@@ -1,9 +1,9 @@
 {
   "detector": "venue_date",
-  "movie": "Dune: Part Three",
-  "requested_date": "20261216",
-  "venue_code": "INPR",
-  "venue_label": "INOX: LUXE Phoenix Market City, Velachery",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/dune-part-three/buytickets/ET00526290/{date}",
+  "movie": "Godzilla Minus Zero",
+  "requested_date": "20261127",
+  "venue_code": "PVPZ",
+  "venue_label": "PVR: Palazzo, The Nexus Vijaya Mall",
+  "url_template": "https://in.bookmyshow.com/movies/chennai/godzilla-minus-zero/buytickets/ET00524518/{date}",
   "min_references": 10
 }
