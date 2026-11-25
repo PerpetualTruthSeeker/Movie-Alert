@@ -1,9 +1,9 @@
 {
   "detector": "venue_date",
   "movie": "Godzilla Minus Zero (Japanese, IMAX 2D)",
-  "requested_date": "20261126",
-  "venue_code": "PVPZ",
-  "venue_label": "PVR: Palazzo, The Nexus Vijaya Mall",
+  "requested_date": "20261129",
+  "venue_code": "INPR",
+  "venue_label": "INOX: LUXE Phoenix Market City, Velachery",
   "url_template": "https://in.bookmyshow.com/movies/chennai/godzilla-minus-zero/buytickets/ET00526353/{date}",
   "min_references": 10
 }
