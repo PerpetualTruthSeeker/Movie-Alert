@@ -1,9 +1,9 @@
 {
   "detector": "venue_date",
-  "movie": "Godzilla Minus Zero (Japanese, IMAX 2D)",
+  "movie": "Ramayana",
   "requested_date": "20261129",
   "venue_code": "PVPZ",
   "venue_label": "PVR: Palazzo, The Nexus Vijaya Mall",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/godzilla-minus-zero/buytickets/ET00526353/{date}",
+  "url_template": "https://in.bookmyshow.com/movies/chennai/ramayana/buytickets/ET00523959/{date}",
   "min_references": 10
 }
