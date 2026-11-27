@@ -1,9 +1,9 @@
 {
   "detector": "venue_date",
-  "movie": "Ramayana",
-  "requested_date": "20261129",
+  "movie": "The Hunger Games: Sunrise on the Reaping",
+  "requested_date": "20261128",
   "venue_code": "PVPZ",
   "venue_label": "PVR: Palazzo, The Nexus Vijaya Mall",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/ramayana/buytickets/ET00523959/{date}",
+  "url_template": "https://in.bookmyshow.com/movies/chennai/the-hunger-games-sunrise-on-the-reaping/buytickets/ET00496180/{date}",
   "min_references": 10
 }
