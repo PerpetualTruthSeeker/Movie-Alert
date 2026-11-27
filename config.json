@@ -1,9 +1,9 @@
 {
   "detector": "venue_date",
-  "movie": "The Hunger Games: Sunrise on the Reaping",
-  "requested_date": "20261128",
+  "movie": "Godzilla Minus Zero (Japanese, IMAX 2D)",
+  "requested_date": "20261130",
   "venue_code": "PVPZ",
   "venue_label": "PVR: Palazzo, The Nexus Vijaya Mall",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/the-hunger-games-sunrise-on-the-reaping/buytickets/ET00496180/{date}",
+  "url_template": "https://in.bookmyshow.com/movies/chennai/godzilla-minus-zero/buytickets/ET00526353/{date}",
   "min_references": 10
 }
